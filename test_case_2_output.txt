@@ -1,0 +1,17 @@
+koole karhaye 1  10091
+koole karhaye 2  89909
+
+koole zamane kare 1  1006940.9862011231
+koole zamane kare 2  8990882.6927201
+miangin zamane kare 1  99.78604560510584
+miangin zamane kare 2  99.99980750225339
+
+miangin zaman saf dar schedular kare 1 13.684111559021124
+miangin zaman saf dar schedular kare 2 13.812001335712623
+
+nesbate karhaye1 ke expired shodan be kole kare 1 0.0
+nesbate karhaye2 ke expired shodan be kole kare 2  0.0
+nesbate karhaye1 ke expired shodan be kole kareha 0.0
+nesbate karhaye2 ke expired shodan be kole kareha 0.0
+
+miangine toole saf servers 666666.6666666667
